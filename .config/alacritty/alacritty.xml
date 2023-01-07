@@ -1,0 +1,40 @@
+font:
+  normal:
+    family: JetBrains Mono
+    style: Regular
+  bold:
+    family: JetBrains Mono
+    style: Regular
+  italic:
+    family: JetBrains Mono
+    style: Regular
+  bold_italic:
+    family: JetBrains Mono
+    style: Regular
+  size: 12
+draw_bold_text_with_bright_colors: true
+
+window.opacity: 1
+
+colors:
+  primary:
+    background: "#282828"
+    foreground: "#ebdbb2"
+  normal:
+    black: "#1d2021"
+    red: "#cc241d"
+    green: "#98971a"
+    yellow: "#d79921"
+    blue: "#458588"
+    magenta: "#b16286"
+    cyan: "#689d6a"
+    white: "#fbf1c7"
+  bright:
+    black: "#3c3836"
+    red: "#fb4934"
+    green: "#b8bb26"
+    yellow: "#fabd2f"
+    blue: "#83a598"
+    magenta: "#d3869b"
+    cyan: "#8ec07c"
+    white: "#ebdbb2"
